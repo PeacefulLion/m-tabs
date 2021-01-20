@@ -1,6 +1,6 @@
 {
-  "name": "rmc-tabs",
-  "version": "1.2.29",
+  "name": "@peaceful/rmc-tabs",
+  "version": "1.2.30",
   "description": "React Mobile Tabs Component(web & react-native)",
   "keywords": [
     "react",
